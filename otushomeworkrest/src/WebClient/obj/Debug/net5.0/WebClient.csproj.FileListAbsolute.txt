@@ -1,0 +1,16 @@
+C:\Users\gusko\source\repos\otushomeworkrest\src\WebClient\bin\Debug\net5.0\WebClient.exe
+C:\Users\gusko\source\repos\otushomeworkrest\src\WebClient\bin\Debug\net5.0\WebClient.deps.json
+C:\Users\gusko\source\repos\otushomeworkrest\src\WebClient\bin\Debug\net5.0\WebClient.runtimeconfig.json
+C:\Users\gusko\source\repos\otushomeworkrest\src\WebClient\bin\Debug\net5.0\WebClient.runtimeconfig.dev.json
+C:\Users\gusko\source\repos\otushomeworkrest\src\WebClient\bin\Debug\net5.0\WebClient.dll
+C:\Users\gusko\source\repos\otushomeworkrest\src\WebClient\bin\Debug\net5.0\WebClient.pdb
+C:\Users\gusko\source\repos\otushomeworkrest\src\WebClient\obj\Debug\net5.0\WebClient.csproj.AssemblyReference.cache
+C:\Users\gusko\source\repos\otushomeworkrest\src\WebClient\obj\Debug\net5.0\WebClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusko\source\repos\otushomeworkrest\src\WebClient\obj\Debug\net5.0\WebClient.AssemblyInfoInputs.cache
+C:\Users\gusko\source\repos\otushomeworkrest\src\WebClient\obj\Debug\net5.0\WebClient.AssemblyInfo.cs
+C:\Users\gusko\source\repos\otushomeworkrest\src\WebClient\obj\Debug\net5.0\WebClient.csproj.CoreCompileInputs.cache
+C:\Users\gusko\source\repos\otushomeworkrest\src\WebClient\obj\Debug\net5.0\WebClient.dll
+C:\Users\gusko\source\repos\otushomeworkrest\src\WebClient\obj\Debug\net5.0\refint\WebClient.dll
+C:\Users\gusko\source\repos\otushomeworkrest\src\WebClient\obj\Debug\net5.0\WebClient.pdb
+C:\Users\gusko\source\repos\otushomeworkrest\src\WebClient\obj\Debug\net5.0\WebClient.genruntimeconfig.cache
+C:\Users\gusko\source\repos\otushomeworkrest\src\WebClient\obj\Debug\net5.0\ref\WebClient.dll
